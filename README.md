@@ -16,7 +16,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 
 ### Testing process
 
-- Electric consumption testing
+- #### Electric consumption testing
   The electric consumption testing process involves using a wattmeter connected in series to an outlet.
   
   | Power State | Explanation |
@@ -26,7 +26,7 @@ As an Amazon Associate, I earn from qualifying purchases.
   | Power IDLE | Device in idle |
   | Power Stress Test | Device under full load using stress |
   
-- CPU testing
+- #### CPU testing
   The CPU testing process is conducted using the following tests.
   | Benchmark | Category | URL |
   | ---- | ---- | ---- |
@@ -36,7 +36,7 @@ As an Amazon Associate, I earn from qualifying purchases.
   | x264 | CPU Video Encoder | https://openbenchmarking.org/test/pts/x264 |
   | x265 | CPU Video Encoder | https://openbenchmarking.org/test/pts/x265 |
 
-- GPU testing
+- #### GPU testing
   The GPU testing process is conducted using the following tests.
   | Benchmark | Category | URL |
   | ---- | ---- | ---- |
@@ -46,7 +46,7 @@ As an Amazon Associate, I earn from qualifying purchases.
   | Gimp | Image Manipulaton Program | https://openbenchmarking.org/test/system/gimp |
   | GEGL | Generic Graphics Library | https://openbenchmarking.org/test/system/gegl |
   
-- Networking testing
+- #### Networking testing
   The Networking testing process is conducted using the following tests.
   | Benchmark | Category | URL |
   | ---- | ---- | ---- |
