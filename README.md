@@ -35,5 +35,22 @@ As an Amazon Associate, I earn from qualifying purchases.
   | 7zip | Compression & Decompression | https://openbenchmarking.org/test/pts/compress-7zip |
   | x264 | CPU Video Encoder | https://openbenchmarking.org/test/pts/x264 |
   | x265 | CPU Video Encoder | https://openbenchmarking.org/test/pts/x265 |
+
+- GPU testing
+  The GPU testing process is conducted using the following tests.
+  | Benchmark | Category | URL |
+  | ---- | ---- | ---- |
+  | Glmark2 | OpenGL | https://openbenchmarking.org/test/pts/glmark2 |
+  | Blender | 3D | https://openbenchmarking.org/test/pts/blender |
+  | Inkscape | Vector Graphics Editor | https://openbenchmarking.org/test/system/inkscape |
+  | Gimp | Image Manipulaton Program | https://openbenchmarking.org/test/system/gimp |
+  | GEGL | Generic Graphics Library | https://openbenchmarking.org/test/system/gegl |
+  
+- Networking testing
+  The Networking testing process is conducted using the following tests.
+  | Benchmark | Category | URL |
+  | ---- | ---- | ---- |
+  | Iperf3 | Bandwidth throughput | https://openbenchmarking.org/test/pts/iperf |
+  | Loopback TCP Network Performance | TCP performance | https://openbenchmarking.org/test/pts/network-loopback |
   
   
