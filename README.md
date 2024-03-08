@@ -22,6 +22,8 @@ As an Amazon Associate, I earn from qualifying purchases.
 
 ### Testing process
 
+These are all the tests I typically conduct in product reviews. Specific tests are tailored for the processor, graphics card, disk, and network. It's important to note that the feasibility of running all tests often depends on the specific product under review. In some cases, certain tests may not be feasible or applicable.
+
 - #### Electric consumption testing
   The electric consumption testing process involves using a wattmeter connected in series to an outlet.
   
