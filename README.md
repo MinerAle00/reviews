@@ -14,6 +14,12 @@ As an Amazon Associate, I earn from qualifying purchases.
 | [Raspberry PI 5](https://github.com/MinerAle00/reviews/issues/1) | 03-2024 | https://amzn.to/48ItgSd | 🟡 |
 | Mac Mini M2 PRO | ---- | https://amzn.to/3PeyH4p | 🔴 |
 
+🟢 Done
+
+🟡 Work in progress
+
+🔴 Not started
+
 ### Testing process
 
 - #### Electric consumption testing
