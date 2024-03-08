@@ -75,5 +75,4 @@ These are all the tests I typically conduct in product reviews. Specific tests a
   | Iperf3 | Bandwidth throughput | https://openbenchmarking.org/test/pts/iperf |
   | Loopback TCP Network Performance | TCP performance | https://openbenchmarking.org/test/pts/network-loopback |
     
-[Back on TOP](#section_name)
-<a name="Product Reviews by MinerAle"></a>    
+[Back on TOP](#Product Reviews by MinerAle)
