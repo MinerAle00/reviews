@@ -49,13 +49,13 @@ These are all the tests I typically conduct in product reviews. Specific tests a
   | LibreOffice | Open-source Office | https://openbenchmarking.org/test/system/libreoffice |
   | Librsvg | SVG Vector Graphics Library | https://openbenchmarking.org/test/system/rsvg |
   | GNU Octave Benchmark | Numerical Computations | https://openbenchmarking.org/test/system/octave-benchmark |
+  | Blender | 3D | https://openbenchmarking.org/test/pts/blender |
 
 - #### GPU testing
   The GPU testing process is conducted using the following tests.
   | Benchmark | Category | URL |
   | ---- | ---- | ---- |
   | Glmark2 | OpenGL | https://openbenchmarking.org/test/pts/glmark2 |
-  | Blender | 3D | https://openbenchmarking.org/test/pts/blender |
   | Inkscape | Vector Graphics Editor | https://openbenchmarking.org/test/system/inkscape |
   | Gimp | Image Manipulaton Program | https://openbenchmarking.org/test/system/gimp |
   | GEGL | Generic Graphics Library | https://openbenchmarking.org/test/system/gegl |
