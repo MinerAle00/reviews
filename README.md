@@ -11,11 +11,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 | Product Name | Year of testing | URL | Review status |
 | ---- | ---- | ---- | :----: |
 | [Raspberry PI 5](https://github.com/MinerAle00/reviews/issues/4) | ---- | https://amzn.to/48ItgSd | 🟡 |
-| [Nipogi CK10](https://github.com/MinerAle00/reviews/issues/2) | 03-2024 | https://amzn.to/3uW74pR | 🟢 |
 | Mixtile Blade 3 | 02-2024 | https://www.mixtile.com/store/sbc/blade-3/ | 🟢 |
-| Nipogi AK2PLUS | 10-2023 | https://amzn.to/48I9fMT | 🟢 |
-| Nipogi AK1PLUS | 09-2023 | https://amzn.to/48Qb4WO | 🟢 |
-
 
 🟢 Done
 
