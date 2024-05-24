@@ -10,7 +10,7 @@ As an Amazon Associate, I earn from qualifying purchases.
 
 | Product Name | Year of testing | URL | Review status |
 | ---- | ---- | ---- | :----: |
-| [AMD Kit 4700S](https://github.com/MinerAle00/reviews/issues/5) | 05-2024 | https://www.wstore.sk/amd-desktop-kit-amd-4700s-3-6-ghz-16-gb-gddr6/ | 🟡 |
+| [AMD 4700S](https://github.com/MinerAle00/reviews/issues/5) | 05-2024 | https://www.wstore.sk/amd-desktop-kit-amd-4700s-3-6-ghz-16-gb-gddr6/ | 🟢 |
 | [Raspberry PI 5](https://github.com/MinerAle00/reviews/issues/4) | ---- | https://amzn.to/48ItgSd | 🟡 |
 | Mixtile Blade 3 | 02-2024 | https://www.mixtile.com/store/sbc/blade-3/ | 🟢 |
 
